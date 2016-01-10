@@ -1,0 +1,13 @@
+Nunchuck	KEYWORD 1
+
+accelX	KEYWORD 2
+accelY	KEYWORD 2
+accelZ	KEYWORD 2
+joyX	KEYWORD 2
+joyY	KEYWORD 2
+botonZ	KEYWORD 2
+botonC	KEYWORD 2
+
+init	KEYWORD 2
+update	KEYWORD 2
+

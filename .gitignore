@@ -1,0 +1,8 @@
+# Backup files
+*.bak
+
+# Logs
+*.log
+
+# Python Tests
+*.py
