@@ -6,5 +6,4 @@ This is a simplified version of the original WiiChuck library developed by Tim H
 
 ## Author
 Francisco Miguel Moreno
-* butakus@gmail.com
-* twitter.com/butakus
+* butakus[at]gmail.com
